@@ -1052,31 +1052,31 @@ msgstr "数据库名称"
 
 #: superset/assets/src/addSlice/AddSliceContainer.jsx:59
 msgid "Create a new chart"
-msgstr ""
+msgstr "新建图表"
 
 #: superset/assets/src/addSlice/AddSliceContainer.jsx:61
 #: superset/assets/src/addSlice/AddSliceContainer.jsx:69
 msgid "Choose a datasource"
-msgstr ""
+msgstr "选择一个数据源"
 
 #: superset/assets/src/addSlice/AddSliceContainer.jsx:75
 msgid ""
 "If the datasource your are looking for is not available in the list, "
 "follow the instructions on the how to add it on the "
-msgstr ""
+msgstr "如果您正在寻找的数据源在列表中不可用，请按照有关如何在superset中添加它的说明进行操作"
 
 #: superset/assets/src/addSlice/AddSliceContainer.jsx:79
 msgid "Superset tutorial"
-msgstr ""
+msgstr "Superset 指引"
 
 #: superset/assets/src/addSlice/AddSliceContainer.jsx:84
 #: superset/assets/src/addSlice/AddSliceContainer.jsx:91
 msgid "Choose a visualization type"
-msgstr ""
+msgstr "选择图表类型"
 
 #: superset/assets/src/addSlice/AddSliceContainer.jsx:101
 msgid "Create new chart"
-msgstr ""
+msgstr "创建"
 
 #: superset/assets/src/chart/chartAction.js:169
 msgid "Unexpected error: "
